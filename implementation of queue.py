@@ -1,5 +1,5 @@
 # CREATING QUEUE CLASS.
-# AUTHOR: code
+# AUTHOR: CodeWithSalman
 class Queue:
     # CREATING CONSTRUCTOR.
     def __init__(self):
